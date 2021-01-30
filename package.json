@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Quasar + Tailwind",
   "productName": "Quasar + Tailwind",
-  "author": "pedrolivertwd@gmail.com <pedrolivertwd@gmail.com>",
+  "author": "PH7-Jack <pedrolivertwd@gmail.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.ts,.vue ./",
